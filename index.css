@@ -1,0 +1,18 @@
+.a>*
+{box-sizing: border-box;padding: 10px;
+border-radius: 6px;border: solid 1px #00d;
+background-color:#44f;color:#fff;
+transition: .5s;}
+
+.b>*
+{box-sizing: border-box;padding: 10px;
+border-radius: 6px;border: solid 1px #000;
+background-color:#333;color:#ff0;
+transition: .5s;}
+
+.c>*
+{box-sizing: border-box;padding: 10px;
+border-radius: 6px;border: solid 1px #ccc;
+background-color:#fff;color:#000;
+transition: .5s;}
+
